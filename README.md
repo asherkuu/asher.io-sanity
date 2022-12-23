@@ -12,3 +12,4 @@ Now you can do the following things:
 # asher.io-sanity
 # asher.io-sanity
 # asher.io-sanity
+# asher.io-sanity
