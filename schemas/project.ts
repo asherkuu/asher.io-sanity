@@ -59,6 +59,11 @@ export default defineType({
       type: 'datetime',
     }),
     defineField({
+      name: 'isPublished',
+      title: 'Publish',
+      type: 'boolean',
+    }),
+    defineField({
       name: 'author',
       title: 'Author',
       type: 'reference',
