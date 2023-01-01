@@ -86,9 +86,9 @@ export default defineType({
       of: [{type: 'reference', to: {type: 'projectSummaries'}}],
     }),
     defineField({
-      name: 'body',
-      title: 'Body',
-      type: 'blockContent',
+      name: 'content',
+      title: 'Content',
+      type: 'markdown',
     }),
   ],
 
